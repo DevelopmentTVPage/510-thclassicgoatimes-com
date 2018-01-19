@@ -9,8 +9,8 @@
             "widget_padding_top": "dfh",
             "widget_border_width": "0",
             "widget_border_style": "none",
-            "widget_border_color": "transparent",
-            "widget_background_color": "rgba(255, 0, 0, 0)"
+            "widget_border_color": "rgba(0, 255, 204, 1)",
+            "widget_background_color": "rgba(0, 255, 193, 1)"
         }
     },
     "advertising": {
