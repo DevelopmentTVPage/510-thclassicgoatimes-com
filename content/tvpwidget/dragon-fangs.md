@@ -11,6 +11,11 @@
             "widget_border_style": "none",
             "widget_border_color": "rgba(0, 255, 204, 1)",
             "widget_background_color": "rgba(0, 255, 193, 1)"
+        },
+        ".widget-title": {
+            "widget_title_background_color": "rgba(242, 136, 255, 1)",
+            "widget_title_margin_top": "1",
+            "widget_title_color": "rgba(255, 255, 255, 1)"
         }
     },
     "advertising": {
