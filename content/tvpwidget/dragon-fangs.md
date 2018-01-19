@@ -42,6 +42,13 @@
             "video_item_image_icon_color": "rgba(0, 247, 255, .5)",
             "video_item_image_icon_hover_background_color": "rgba(169, 0, 255, 1)",
             "video_item_image_icon_hover_color": "rgba(216, 255, 0, 1)"
+        },
+        ".product-item": {
+            "product_item_margin_top": "1",
+            "product_item_padding_top": "8",
+            "product_item_border_color": "rgba(255, 0, 0, 0.97)",
+            "product_item_border_style": "outset",
+            "product_item_border_width": "20"
         }
     },
     "advertising": {
