@@ -22,6 +22,16 @@
             "carousel_arrow_color": "rgba(45, 0, 250, 1)",
             "carousel_arrow_background_color": "rgba(226, 248, 0, 1)",
             "carousel_arrow_display": "block"
+        },
+        ".slick-dots li button": {
+            "carousel_dot_height": "50",
+            "carousel_dot_width": "50",
+            "carousel_dot_background_color": "rgba(0, 0, 0, 1)",
+            "carousel_dot_border_style": "dashed",
+            "carousel_dot_border_width": "20",
+            "carousel_dot_border_radius": "100%",
+            "carousel_dot_hover_background_color": "rgba(255, 255, 255, 1)",
+            "carousel_dot_border_color": "rgba(255, 234, 0, 1)"
         }
     },
     "advertising": {
