@@ -49,6 +49,25 @@
             "product_item_border_color": "rgba(255, 0, 0, 0.97)",
             "product_item_border_style": "outset",
             "product_item_border_width": "20"
+        },
+        ".product-pop-over-title": {
+            "product_pop_over_title_padding_right": "6",
+            "product_pop_over_title_margin_top": "8",
+            "product_pop_over_title_margin_bottom": "89",
+            "product_pop_over_title_font_size": "25px",
+            "product_pop_over_title_font_weight": "bold",
+            "product_pop_over_title_text_align": "right",
+            "product_pop_over_title_background_color": "rgba(255, 0, 0, 1)",
+            "product_pop_over_title_border_width": "10",
+            "product_pop_over_title_border_color": "rgba(27, 201, 32, 1)",
+            "product_pop_over_title_border_style": "dotted"
+        },
+        ".product-pop-over-cta": {
+            "product_pop_over_cta_color": "rgba(0, 97, 239, 0.83)",
+            "product_pop_over_cta_background_color": "rgba(0, 40, 255, 1)",
+            "product_pop_over_cta_font_size": "50px",
+            "product_pop_over_cta_style": "double",
+            "product_pop_over_cta_width": "20"
         }
     },
     "advertising": {
